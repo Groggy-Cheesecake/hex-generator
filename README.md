@@ -1,0 +1,2 @@
+# hex-generator
+npm start
