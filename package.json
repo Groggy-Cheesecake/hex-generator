@@ -1,0 +1,11 @@
+{
+  "name": "hex-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2FACodeGenerator.js",
+  "scripts": {
+    "start": "node 2FACodeGenerator.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
